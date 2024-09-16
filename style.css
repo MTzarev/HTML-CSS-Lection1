@@ -1,3 +1,6 @@
 body{
-    background-color: darkgreen;
+    background-color: gray;
+}
+input{
+    background-color: lightgray;
 }
